@@ -117,6 +117,12 @@ Puedes abrir un issue seleccionando la opción adecuada a continuación:
 
 👉 **[Ver todos los Issues Activos](https://github.com/dazorn-oficial/Dazorn-economy-bot/issues)**
 
+## 💬 Contacto
+
+Si tienes alguna duda más específica, necesitas ayuda para configurarlo, o simplemente quieres contactar conmigo para un bot personalizado, puedes hablarme por mensaje directo en Discord:
+
+* **Discord:** `dazorn_oficial`
+
 ## ☕ Apoyo al Proyecto
 
 Este bot se ha desarrollado con mucha dedicación y tiempo para garantizar la mejor experiencia de usuario posible y ofrecer un recurso de código abierto limpio y estructurado. Si este proyecto te ha resultado útil y deseas apoyar las horas invertidas en su creación, puedes considerar hacer una donación. 
