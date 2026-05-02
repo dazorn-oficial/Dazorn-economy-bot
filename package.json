@@ -1,0 +1,22 @@
+{
+  "name": "discord-economy-bot",
+  "version": "0.8.7",
+  "description": "Un bot de economía completo para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "economy",
+    "discord.js"
+  ],
+  "author": "Code by Dazorn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
