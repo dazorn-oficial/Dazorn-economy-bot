@@ -133,4 +133,8 @@ No es obligatorio en absoluto, pero cualquier gesto es inmensamente apreciado y 
 [<img src="https://img.shields.io/badge/PayPal-Donar-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />](https://paypal.me/Danielzp24)
 
 ---
-**Code by Dazorn**
+<div align="center">
+  <i>"Si se puede pensar, se puede construir."</i><br>
+  <b>Developed by Dazorn</b>
+</div>
+
