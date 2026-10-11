@@ -43,15 +43,13 @@ Sigue estos pasos para instalar y ejecutar el bot en tu propio entorno:
    ```
 
 3. **Configura el entorno**
-   Crea un archivo `.env` en la raíz del proyecto y añade la siguiente información:
-   ```env
-   TOKEN=TU_TOKEN_DEL_BOT
-   CLIENT_ID=ID_DE_LA_APLICACION_DEL_BOT
-   GUILD_ID=ID_DE_TU_SERVIDOR
-   PREFIX=!
-   USE_SLASH=true
-   USE_PREFIX=true
+   Copia el archivo `.env.example` para crear tu archivo de configuración `.env`:
+   ```bash
+   cp .env.example .env
    ```
+   Después, abre el archivo `.env` y sustituye los valores de ejemplo por los datos reales de tu bot de Discord. No compartas este archivo ni lo subas al repositorio, ya que contiene credenciales privadas.
+   
+   **Nota:** Si el comando `cp` te da un error, prueba con `copy .env.example .env` en Windows CMD.
 
 4. **Inicia el bot**
    ```bash
